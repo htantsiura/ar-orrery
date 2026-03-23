@@ -1,0 +1,47 @@
+- !<AssetImportMetadata/92f1182d-9828-472e-ba41-a145cacbfc97>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> ca764f20-aa47-4c1d-8c3f-e2ad0b711fef
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> ca764f20-aa47-4c1d-8c3f-e2ad0b711fef
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 91e71b72-5dd3-43ea-983a-6d1db24aad9f
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/91e71b72-5dd3-43ea-983a-6d1db24aad9f>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 4f94d38a-55af-43bc-af51-eca5a820188d
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    monthNumber: false
+    uiControllerScript: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - monthNumber: !<float> 0.000000
+      uiControllerScript: !<MappingBased.AssignableType> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input float monthNumber
+    - // @input AssignableType uiControllerScript

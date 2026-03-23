@@ -1,0 +1,56 @@
+- !<AssetImportMetadata/dce7d809-77d5-412f-bbc7-62ce235a32e8>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 459f64c3-4855-4017-acad-e43a29d6cb93
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 459f64c3-4855-4017-acad-e43a29d6cb93
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 47d94fa2-8eb0-42b5-b026-5bd9406a327b
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/47d94fa2-8eb0-42b5-b026-5bd9406a327b>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: e6231f4d-a6ab-4949-a1eb-1660fb93c28d
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    camera: false
+    compass2: false
+    dataText: false
+    direction: false
+    navigationComponent: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - navigationComponent: !<MappingBased.AssignableType> 00000000-0000-0000-0000-000000000000
+      direction: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      dataText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      camera: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      compass2: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input AssignableType navigationComponent
+    - // @input SceneObject direction
+    - // @input Component.Text dataText
+    - // @input SceneObject camera
+    - // @input SceneObject compass2

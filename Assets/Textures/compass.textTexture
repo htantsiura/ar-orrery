@@ -1,0 +1,16 @@
+- !<TextTexture/3976b6df-b81e-4ee5-8a1e-a04ccdd0d74f>
+  PackagePath: ""
+  Text: |2-
+                            N                        .                        .                        NE                        .                        .                        E                        .                        .                        SE                        .                        .                        S                        .                        .                        SW                        .                        .                        W                        .                        .                        NW                        .                        . 
+  FontSize: 24
+  FontColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  CustomFont: !<reference> 00000000-0000-0000-0000-000000000000
+  Outline:
+    enabled: false
+    color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+    size: 0.250000
+  DropShadow:
+    enabled: false
+    color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+    offsetX: 0.000000
+    offsetY: 0.000000

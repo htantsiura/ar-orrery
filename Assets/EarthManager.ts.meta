@@ -1,0 +1,77 @@
+- !<AssetImportMetadata/90c83ed5-bbdd-43b4-9a6e-70461300c99f>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 591115b5-3d86-4cdf-bafa-e28eb9a84042
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 591115b5-3d86-4cdf-bafa-e28eb9a84042
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 41865bc6-a585-44ce-87b9-2d44cae1f0d9
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/41865bc6-a585-44ce-87b9-2d44cae1f0d9>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 3d327147-f25c-4dfc-a694-9d015a617fb9
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    bitmoji: false
+    dateText: false
+    debugText3: false
+    earth: false
+    earth360: false
+    getGeoPosScript: false
+    handControllerScript: false
+    hours: false
+    latAndLongText: false
+    navigationComponent: false
+    sunPivot: false
+    uiControllerScript: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - getGeoPosScript: !<MappingBased.AssignableType> 00000000-0000-0000-0000-000000000000
+      uiControllerScript: !<MappingBased.AssignableType_1> 00000000-0000-0000-0000-000000000000
+      navigationComponent: !<MappingBased.AssignableType_2> 00000000-0000-0000-0000-000000000000
+      earth: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      earth360: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      sunPivot: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      bitmoji: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      hours: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      dateText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      latAndLongText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      debugText3: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      handControllerScript: !<MappingBased.AssignableType_3> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input AssignableType getGeoPosScript
+    - // @input AssignableType_1 uiControllerScript
+    - // @input AssignableType_2 navigationComponent
+    - // @input SceneObject earth
+    - // @input SceneObject earth360
+    - // @input SceneObject sunPivot
+    - // @input SceneObject bitmoji
+    - // @input Asset.Material hours
+    - // @input Component.Text dateText
+    - // @input Component.Text latAndLongText
+    - // @input Component.Text debugText3
+    - // @input AssignableType_3 handControllerScript

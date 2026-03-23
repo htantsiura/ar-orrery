@@ -1,0 +1,53 @@
+- !<AssetImportMetadata/8f4ba6de-3d4f-4a19-960c-aef95c2f98fa>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 8fc2e0d7-d63d-44c4-be5f-9539347ba352
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 8fc2e0d7-d63d-44c4-be5f-9539347ba352
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 4b06a335-b5f2-464a-bf59-0eb3800f4498
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/4b06a335-b5f2-464a-bf59-0eb3800f4498>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: b7f5ea57-86a2-4225-8f8f-9ba422efd571
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    dayUI: false
+    monthButtonScript: false
+    navigationComponent: false
+    yearUI: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - navigationComponent: !<MappingBased.AssignableType> 00000000-0000-0000-0000-000000000000
+      monthButtonScript: !<MappingBased.AssignableType_1> 00000000-0000-0000-0000-000000000000
+      yearUI: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      dayUI: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input AssignableType navigationComponent
+    - // @input AssignableType_1 monthButtonScript
+    - // @input SceneObject yearUI
+    - // @input SceneObject dayUI

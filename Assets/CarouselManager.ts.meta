@@ -1,0 +1,74 @@
+- !<AssetImportMetadata/257549db-2c40-7ea7-6f19-83e0c6e14c31>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 760e34b2-c223-4fb6-9b99-4bde42133116
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 760e34b2-c223-4fb6-9b99-4bde42133116
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> b8a91d16-742d-4ebd-9229-aa7575fd7ae7
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/b8a91d16-742d-4ebd-9229-aa7575fd7ae7>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 976473ea-41e7-4b77-beed-fb8a64132b91
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    amountOfStates: false
+    casouselItemScript: false
+    debugText: false
+    debugText2: false
+    handControllerScript: false
+    handSensitivity: false
+    itemPrefab: false
+    root: false
+    sound: false
+    stateText: false
+    staticBody: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - itemPrefab: !<reference.ObjectPrefab> 00000000-0000-0000-0000-000000000000
+      root: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      amountOfStates: !<float> 0.000000
+      staticBody: !<reference.BodyComponent> 00000000-0000-0000-0000-000000000000
+      stateText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      casouselItemScript: !<MappingBased.AssignableType> 00000000-0000-0000-0000-000000000000
+      handControllerScript: !<MappingBased.AssignableType_1> 00000000-0000-0000-0000-000000000000
+      handSensitivity: !<float> 0.000000
+      sound: !<reference.AudioComponent> 00000000-0000-0000-0000-000000000000
+      debugText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      debugText2: !<reference.Text> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input Asset.ObjectPrefab itemPrefab
+    - // @input SceneObject root
+    - // @input float amountOfStates
+    - // @input Component.BodyComponent staticBody
+    - // @input Component.Text stateText
+    - // @input AssignableType casouselItemScript
+    - // @input AssignableType_1 handControllerScript
+    - // @input float handSensitivity
+    - // @input Component.AudioComponent sound
+    - // @input Component.Text debugText
+    - // @input Component.Text debugText2

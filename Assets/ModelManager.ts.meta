@@ -1,0 +1,71 @@
+- !<AssetImportMetadata/3a79099c-bb9a-49bc-b9bc-97782d61c4a1>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> f6e96b15-a84f-49af-b4e8-c96dc8b17df6
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> f6e96b15-a84f-49af-b4e8-c96dc8b17df6
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 118e075b-58a8-4769-9565-921b544ce356
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/118e075b-58a8-4769-9565-921b544ce356>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 44c6fa7a-7be7-454c-94bc-b75e292a8099
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    dateText: false
+    debugDayNumber: false
+    earthPlanet: false
+    earthRotated: false
+    navigationComponent: false
+    rootSun: false
+    sun360: false
+    sunHeightRot: false
+    sunPivot: false
+    uiControllerScript: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - debugDayNumber: !<float> 0.000000
+      earthRotated: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      earthPlanet: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      dateText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      sunHeightRot: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      rootSun: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      sunPivot: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      sun360: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      navigationComponent: !<MappingBased.AssignableType> 00000000-0000-0000-0000-000000000000
+      uiControllerScript: !<MappingBased.AssignableType_1> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input float debugDayNumber
+    - // @input SceneObject earthRotated
+    - // @input SceneObject earthPlanet
+    - // @input Component.Text dateText
+    - // @input SceneObject sunHeightRot
+    - // @input SceneObject rootSun
+    - // @input SceneObject sunPivot
+    - // @input SceneObject sun360
+    - // @input AssignableType navigationComponent
+    - // @input AssignableType_1 uiControllerScript

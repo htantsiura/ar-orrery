@@ -1,0 +1,53 @@
+- !<AssetImportMetadata/ab7b3946-0e78-0063-fa0f-9c4b283a6a1b>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> ec472ed5-f36e-4800-8775-2778724a08e6
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> ec472ed5-f36e-4800-8775-2778724a08e6
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 78536efe-f5f1-4622-ba29-5de10741368a
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/78536efe-f5f1-4622-ba29-5de10741368a>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 1c5c6730-e877-4a2c-ab36-cd5867b52835
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    handRotatedBox: false
+    root: false
+    sphereFinger0: false
+    sphereFinger1: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - sphereFinger0: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      sphereFinger1: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      handRotatedBox: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      root: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input SceneObject sphereFinger0
+    - // @input SceneObject sphereFinger1
+    - // @input SceneObject handRotatedBox
+    - // @input SceneObject root

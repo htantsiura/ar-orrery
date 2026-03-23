@@ -1,0 +1,56 @@
+- !<AssetImportMetadata/42e9d2ce-b0a4-5bdb-1956-8d6aadc768ef>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> 6a7f456f-74f2-47ed-83ef-2a93735d156e
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> 6a7f456f-74f2-47ed-83ef-2a93735d156e
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    ObjectPrefab: !<own> 1610207e-a160-4a12-8677-c5c2c23f933c
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ObjectPrefabAssetData/1610207e-a160-4a12-8677-c5c2c23f933c>
+  Prototype: !<ObjectOwner/13f320e8-c1ae-4baa-a70f-65d68c98d094>
+    PackagePath: ""
+    objects:
+      - !<own> eddb7ff3-e156-432d-7cff-59809f533bbf
+- !<RenderMeshVisual/80e1e5d0-d179-43f6-7087-020776227fba>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 277d7d84-ec4e-45b6-bc1e-b8f462e36c23
+  Mesh: !<reference> 4b9a22d3-c80a-4e3c-a267-26ef22bf6e86
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/eddb7ff3-e156-432d-7cff-59809f533bbf>
+  PrefabRemaps:
+    []
+  Name: sphere0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 2.000000, y: 2.000000, z: 2.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 80e1e5d0-d179-43f6-7087-020776227fba

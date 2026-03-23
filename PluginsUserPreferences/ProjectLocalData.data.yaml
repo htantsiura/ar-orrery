@@ -1,0 +1,40 @@
+data:
+  externalSources:
+    - 0422c03a-c1fc-414b-936b-e36bf957a72a: /Applications/LS Specs.app/Contents/JsPlugins/PresetsRegistry/Assets/Resources/Base.png
+    - 0911daa6-b60f-41de-b714-039a84d9e774: /Applications/LS Specs.app/Contents/JsPlugins/PresetsRegistry/Assets/Meshes/Resources/Sphere.mesh
+    - 098d625a-6248-4782-8b92-21d3b2f065d1: /Applications/LS Specs.app/Contents/JsPlugins/PresetsRegistry/Assets/PBRMaterial/Resources/pbr.ss_graph
+    - 0bef7220-64a1-4dfb-8fd7-ef0890d1e4bb: /private/var/folders/0s/mkqc83bx503_8nv59p4_d8400000gn/T/LensStudio_zAfUxT/Bitmoji Animation.lspkg
+    - 12acdc31-b8dd-4b24-b305-61674c0a329a: /Applications/LS Specs.app/Contents/JsPlugins/PresetsRegistry/Assets/EmptyMaterial/Resources/empty.ss_graph
+    - 13dbcc28-49a7-44f7-ad6f-d8a1e71552b0: /Applications/LS Specs.app/Contents/JsPlugins/PresetsRegistry/Assets/ColorCorrectionMaterial/Resources/color_correction.ss_graph
+    - 14783ba9-b2b0-4bad-bf69-95b9bc053ee4: /Applications/LS Specs.app/Contents/JsPlugins/PresetsRegistry/Assets/OccluderMaterial/Resources/occluder.ss_graph
+    - 1c87442d-9ed1-455c-94ec-7343d3f19c12: /Applications/LS Specs.app/Contents/JsPlugins/PresetsRegistry/Assets/Meshes/Resources/Cylinder.mesh
+    - 2c85898e-dd88-4145-9fdf-4901056b5cd5: /Applications/LS Specs.app/Contents/JsPlugins/PresetsRegistry/Assets/Meshes/Resources/Pyramid.mesh
+    - 31abbc22-2aed-4031-96c3-7480c8327a23: /Applications/LS Specs.app/Contents/JsPlugins/HelperScriptsRegistry/Assets/Packages/TweenManager.lspkg
+    - 32b74665-5219-49d3-9763-43e5cb56bbc0: /Applications/LS Specs.app/Contents/JsPlugins/PresetsRegistry/Assets/EmptyMaterial/Resources/empty.ss_graph
+    - 3a62a571-fe17-4c44-a4a0-9bd6e6f78dd4: /Users/hennadii/Work/_New Res/rect1.png
+    - 3a79099c-bb9a-49bc-b9bc-97782d61c4a1: /Applications/LS Specs.app/Contents/JsPlugins/PresetsRegistry/Assets/TypeScript/Resources/Untitled TypeScript.ts
+    - 3b52afe6-03c1-4099-9003-f6feac43598a: /Applications/LS Specs.app/Contents/JsPlugins/PresetsRegistry/Assets/TypeScript/Resources/Untitled TypeScript.ts
+    - 3eb30164-9d27-463e-8718-a561bf776091: /private/var/folders/0s/mkqc83bx503_8nv59p4_d8400000gn/T/LensStudio_wnpgCL/Bitmoji 3D.lsc
+    - 480bfd55-6ab9-4e47-b43c-1c38b4fb3b07: /Applications/LS Specs.app/Contents/Plugins/Es_ShaderGraph_Presets.bundle/Assets/Empty.ss_graph
+    - 5734728e-1c96-4bf0-aedc-9c811097f074: /Applications/LS Specs.app/Contents/JsPlugins/PresetsRegistry/Assets/UberPBRMaterial/Resources/uber_pbr.ss_graph
+    - 66007b90-72ac-4854-abc5-a6fe92af607f: /Users/hennadii/Library/Preferences/Snap/Lens Studio/LibraryComponents/LSTween@1.1.0/LSTween.lspkg
+    - 66b7f776-621b-4944-8589-7df6d0c4a240: /Users/hennadii/Work/_New Res/rect1.png
+    - 6aec921a-389f-49bf-95a7-81f3b4de2aac: /Applications/LS Specs.app/Contents/JsPlugins/PresetsRegistry/Assets/EmptyMaterial/Resources/empty.ss_graph
+    - 6aecd841-4ca0-40f0-8a88-c7494c37fa59: /Users/hennadii/Library/Preferences/Snap/Lens Studio/LibraryComponents/SpectaclesNavigationKit@0.9.7/SpectaclesNavigationKit.lspkg
+    - 830c7ea1-5f00-433e-8bb2-0f91e0c2db8e: /Users/hennadii/Work/Sun/Assets/Mats/pbr.ss_graph
+    - 8aa0d33a-80de-4346-8d1c-ec1888df1d35: /Applications/LS Specs.app/Contents/JsPlugins/PresetsRegistry/Assets/Meshes/Resources/Plane.mesh
+    - 8ce52e26-5e25-4682-b2ae-63cfb67baa6f: /Users/hennadii/Library/Preferences/Snap/Lens Studio/LibraryComponents/SpectaclesInteractionKitExamples@0.16.4/SpectaclesInteractionKitExamples.lspkg
+    - 90c83ed5-bbdd-43b4-9a6e-70461300c99f: /Applications/LS Specs.app/Contents/JsPlugins/PresetsRegistry/Assets/TypeScript/Resources/Untitled TypeScript.ts
+    - 92f1182d-9828-472e-ba41-a145cacbfc97: /Applications/LS Specs.app/Contents/JsPlugins/PresetsRegistry/Assets/TypeScript/Resources/Untitled TypeScript.ts
+    - 9d18f13f-213b-42d9-8d3b-8914c781a655: /Users/hennadii/Work/Sun Path 3/Assets/Mats/empty.ss_graph
+    - a9ff82c1-ef5a-491b-8cbf-3dc955f55d9a: /Users/hennadii/Work/Sun Path 3/Assets/Mats/empty.ss_graph
+    - aa0abaf9-a97c-42b3-a14e-e6392448dc3d: /Applications/LS Specs.app/Contents/JsPlugins/PresetsRegistry/Assets/EmptyMaterial/Resources/empty.ss_graph
+    - b8342a23-bad7-423a-80c3-6a85fe010422: /Applications/LS Specs.app/Contents/JsPlugins/PresetsRegistry/Assets/Resources/MaterialParams.png
+    - bd18b499-ac7e-4dcb-ad44-4ab052fa65f5: /Users/hennadii/Work/Sun Path/Assets/empty.ss_graph
+    - d0283774-573f-437b-9226-d51146011b1b: /Applications/LS Specs.app/Contents/JsPlugins/PresetsRegistry/Assets/ColorCorrectionMaterial/Resources/Pale.png
+    - d1ef4c9c-9bbd-47af-aa76-fb387a097f9e: /Applications/LS Specs.app/Contents/JsPlugins/PresetsRegistry/Assets/PBRMaterial/Resources/pbr.ss_graph
+    - dce7d809-77d5-412f-bbc7-62ce235a32e8: /Applications/LS Specs.app/Contents/JsPlugins/PresetsRegistry/Assets/TypeScript/Resources/Untitled TypeScript.ts
+    - e10d06bb-dd7e-46ef-a054-dd37408f7e10: /Users/hennadii/Work/Sun Path 3/Assets/empty.ss_graph
+    - eafdeb07-9177-45ea-bf9b-1781139f8bf8: /Applications/LS Specs.app/Contents/JsPlugins/PresetsRegistry/Assets/Resources/Normal.png
+    - ec4e6f2d-eb01-42cd-8070-4e782837efc6: /Applications/LS Specs.app/Contents/JsPlugins/PresetsRegistry/Assets/EmptyMaterial/Resources/empty.ss_graph
+    - f65efdc3-c19d-4746-a62b-5f6111747b26: /private/var/folders/0s/mkqc83bx503_8nv59p4_d8400000gn/T/LensStudio_mRPhDN/Bitmoji Animation.lspkg

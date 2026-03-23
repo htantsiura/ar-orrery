@@ -1,0 +1,50 @@
+- !<AssetImportMetadata/3b52afe6-03c1-4099-9003-f6feac43598a>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 55d840cc-1f5a-414e-9bc5-37cb8f21de7c
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 55d840cc-1f5a-414e-9bc5-37cb8f21de7c
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 2d8d5a18-6ebb-4a07-99b6-67c297080c74
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/2d8d5a18-6ebb-4a07-99b6-67c297080c74>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 17cf78cc-ab9a-44f4-9ace-2a3b2b46b449
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    sunPivot: false
+    sunText: false
+    uiControllerScript: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - uiControllerScript: !<MappingBased.AssignableType> 00000000-0000-0000-0000-000000000000
+      sunPivot: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      sunText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input AssignableType uiControllerScript
+    - // @input SceneObject sunPivot
+    - // @input Component.Text sunText
